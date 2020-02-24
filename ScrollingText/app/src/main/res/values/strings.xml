@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Is Andrew Ng\'s Machine Learning course still the best machine learning course available?</string>
+    <string name="article_subtitle">Liang Huang, CS prof.; NLP, ML, compbio; taught ML at the grad level</string>
+    <string name="article_text">
+        Andrew Ng\'s course is the best foundational course for machine learning.
+        If you have some prior knowledge then you can go for specialization offered by https://developers.google.com/machine-learning/crash-course/  deeplearning.ai on coursera which is also taught by Andrew Ng.
+        Its completely in Python and TensorFlow.
+        \n
+        \nNobody mentioned <b>Pedro Domingos</b>\'s ML course on Coursera?
+        (<i>Pedro is a professor at Univ. of Washington, and one of the most cited researchers in ML</i>).
+        I think it\'s a lot better than Andrew Ng\'s as a first course on ML.
+        I myself benefited a lot from Pedro\'s course when preparing my own lectures.
+        The main differences between these two courses are
+        \na) Pedro\'s was recorded in a classroom setting and Andrew\'s was recorded for MOOC (note his in-classroom videos are available on youtube but that\'s a very different course). I myself teach both the on-campus and e-campus ML courses for my university, but you know what, many e-campus students actually prefer to watch the recorded videos from my on-campus ML course. Even though the video quality of classroom lectures is always much worse than MOOC recordings, students still prefer the passion and energy and interactions only found in the classroom setting. The lack of interactions is the key disadvantage of MOOC.
+        \nb) Pedro is much more passionate in his lectures and Andrew\'s tones are often somewhat flat.
+        \nc) Pedro covers more topics and Andrew\'s focus is narrower.
+        \nd) Finally, the use of Matlab/Octave in Andrew\'s course is a bad choice. It is true that many traditional ML courses used Matlab, but Matlab is neither useful in practice (for large datasets) nor beautiful in theory. Today most ML courses are taught in Python.
+        \nJust my two cents.
+        \n
+        \n
+        \nNobody mentioned <b>Pedro Domingos</b>\'s ML course on Coursera?
+        (<i>Pedro is a professor at Univ. of Washington, and one of the most cited researchers in ML</i>).
+        I think it\'s a lot better than Andrew Ng\'s as a first course on ML.
+        I myself benefited a lot from Pedro\'s course when preparing my own lectures.
+        The main differences between these two courses are
+        \na) Pedro\'s was recorded in a classroom setting and Andrew\'s was recorded for MOOC (note his in-classroom videos are available on youtube but that\'s a very different course). I myself teach both the on-campus and e-campus ML courses for my university, but you know what, many e-campus students actually prefer to watch the recorded videos from my on-campus ML course. Even though the video quality of classroom lectures is always much worse than MOOC recordings, students still prefer the passion and energy and interactions only found in the classroom setting. The lack of interactions is the key disadvantage of MOOC.
+        \nb) Pedro is much more passionate in his lectures and Andrew\'s tones are often somewhat flat.
+        \nc) Pedro covers more topics and Andrew\'s focus is narrower.
+        \nd) Finally, the use of Matlab/Octave in Andrew\'s course is a bad choice. It is true that many traditional ML courses used Matlab, but Matlab is neither useful in practice (for large datasets) nor beautiful in theory. Today most ML courses are taught in Python.
+        \nJust my two cents.
+    </string>
+    <string name="add_comment">ADD COMMENT</string>
+</resources>
