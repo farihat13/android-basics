@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="inside_cart">Inside Cart</string>
+    <string name="items_available">Items Available</string>
+    <string name="add_item">Add Item</string>
 </resources>

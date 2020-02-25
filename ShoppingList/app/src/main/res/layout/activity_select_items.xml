@@ -4,37 +4,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_centerHorizontal="true"
-    tools:context=".MainActivity">
+    tools:context=".SelectItems">
 
     <TextView
-        android:id="@+id/cart_heading"
+        android:id="@+id/items_heading"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
         android:padding="@dimen/padding_regular"
-        android:text="@string/inside_cart"
+        android:text="@string/items_available"
         android:textAlignment="center"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         android:textColor="@android:color/white"
         android:textStyle="bold" />
 
 
-    <Button
-        android:id="@+id/button_add_to_cart"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/cart_heading"
-        android:layout_centerHorizontal="true"
-        android:text="@string/add_item" />
-
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/button_add_to_cart"
-        android:layout_centerHorizontal="true">
+        android:layout_below="@id/items_heading">
 
         <LinearLayout
-            android:id="@+id/cart_list"
+            android:id="@+id/items_list"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
